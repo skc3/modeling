@@ -1,2 +1,2 @@
-# modeling
-Modeling projects
+# Modeling Projects
+In R and Python
